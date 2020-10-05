@@ -1,0 +1,12 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:TP-ShyFuMy/Client.git
+[submodule "TpShyFuMyClient"]
+	path = TpShyFuMyClient
+	url = git@github.com:TP-ShyFuMy/Client.git
+[submodule "TpShyFuMyServer"]
+	path = TpShyFuMyServer
+	url = git@github.com:TP-ShyFuMy/Server.git
+[submodule "TpShyFuMyLibrary"]
+	path = TpShyFuMyLibrary
+	url = git@github.com:TP-ShyFuMy/Library.git
